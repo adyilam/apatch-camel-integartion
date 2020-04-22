@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javaFeature.camel</groupId>
-	<artifactId>springbootApatcheCamelIntegaration-project1</artifactId>
+	<artifactId>jenkins-example1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbootApatcheCamelIntegaration-project1</name>
 	<description>Demo project for Spring Boot</description>
