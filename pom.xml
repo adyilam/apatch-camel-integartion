@@ -41,4 +41,19 @@
 		</plugins>
 	</build>
 
+	<!--git repo push and pull url -->
+	<repositories>
+		<repository>
+			<id>github.read</id>
+			<url>https://github.com/adyilam/ApatchCamelIntegartion.git</url>
+		</repository>
+	</repositories>
+		<distributionManagement>
+			<repository>
+				<id>github.write</id>
+				<url>https://github.com/adyilam/ApatchCamelIntegartion.git</url>
+			</repository>
+		</distributionManagement>
+
+
 </project>
